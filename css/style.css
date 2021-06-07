@@ -1,0 +1,18 @@
+body    {
+    margin: 0px;
+    padding: 0px;
+}
+
+header   {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 400px;
+    background: url('https://images.unsplash.com/photo-1568485275431-783e933f1fc2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1189&q=80') center/cover no-repeat;
+}
+
+header h1   {
+    color: #e7e7e7;
+    font-size: 4rem;
+    font-family: 'Times New Roman', Times, serif
+}
